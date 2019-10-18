@@ -1,0 +1,29 @@
+
+Requerimientos 
+*funcionales 
+-Pc
+lengua de programacion visual basic #
+interfaces
+base de datos postgres
+usuarios
+inventario
+	Producto= cod_producto,nombre,categoria,cantidad,precio
+	plato = cod_plato, nombre, precio
+	detalle_plato= cod_detalle,cod_plato,cod_producto
+platos
+preventa
+venta
+reportes
+
+-tablet-movil
+
+
+
+
+
+*no funcionales
+ colores
+(https://flatuicolors.com/palette/nl)
+  botones iconos
+  color de fondo = turkish aqua
+
