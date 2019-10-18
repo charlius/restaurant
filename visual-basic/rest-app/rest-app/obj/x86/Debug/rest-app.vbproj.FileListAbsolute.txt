@@ -1,0 +1,9 @@
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\bin\Debug\rest-app.exe
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\bin\Debug\rest-app.pdb
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\bin\Debug\rest-app.xml
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\rest-app.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\rest-app.exe
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\rest-app.xml
+C:\Users\user\Documents\GitHub\restaurant\visual-basic\rest-app\rest-app\obj\x86\Debug\rest-app.pdb
