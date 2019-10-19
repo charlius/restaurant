@@ -64,9 +64,9 @@ Partial Class login
         'PictureBox3
         '
         Me.PictureBox3.Image = Global.WindowsApplication1.My.Resources.Resources.restaurant_listo_logo
-        Me.PictureBox3.Location = New System.Drawing.Point(89, 69)
+        Me.PictureBox3.Location = New System.Drawing.Point(37, 69)
         Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(183, 184)
+        Me.PictureBox3.Size = New System.Drawing.Size(284, 250)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox3.TabIndex = 2
         Me.PictureBox3.TabStop = False
