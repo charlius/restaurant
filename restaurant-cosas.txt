@@ -1,4 +1,6 @@
-$P$BkNmevRQ36hEyqfQoNN9vpWkYddl7p1
+host=http://intranet.cftsanagustin.cl/temp/solicitud/17843/adminer.php?server=190.151.120.157&username=root&db=alert2
+nueva=$P$Bd3ZKj5yavqqGaVnGDg6vvqxspROOO.
+antigua=$P$BkNmevRQ36hEyqfQoNN9vpWkYddl7p1
 Requerimientos 
 *funcionales 
 -Pc
